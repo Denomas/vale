@@ -1,0 +1,27 @@
+internal/spell/aff_test.go
+  fa629cb413a34b5c 1-194
+internal/spell/gospell.go
+  fa629cb413a34b5c 223-230,232-233
+internal/spell/aff.go
+  fa629cb413a34b5c 65,68,72-97,116,121-122,141,189-190,247-249,276,326
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.17",
+  "base_commit_sha": "28e1abd41cb6d1b00d0cad16552312cb8d2ce53f",
+  "prompts": {
+    "fa629cb413a34b5c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "417c24d3-1f5b-4e2f-8432-11c10ed97316",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Tolga Karataş <tolgakaratas@gmail.com>",
+      "messages": [],
+      "total_additions": 244,
+      "total_deletions": 23,
+      "accepted_lines": 244,
+      "overriden_lines": 0
+    }
+  }
+}
